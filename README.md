@@ -3,14 +3,7 @@
 ## Project Title
 Electronically Tunable MOSFET-C Only Meminductor Emulator and Its Application
 
-## Replication of
-Kumar & Rai, Integration (2025)
 
-## Team Member
-Aryan Raj (6025620008)
-
-## Instructor
-Dr. Shireesh Kumar Rai
 
 ## Folder Structure
 
