@@ -1,0 +1,17 @@
+CONFIDENCE INTERVAL REPORT (200 Monte Carlo Runs)
+============================================================
+Sample Size (n):     200
+Mean Peak Current:   39.42 pA
+Standard Deviation:  1.86 pA
+Standard Error:      0.131 pA
+============================================================
+
+Confidence Level | Margin of Error | Confidence Interval
+------------------------------------------------------------
+90%              | ±0.217 pA        | (39.20, 39.64) pA
+95%              | ±0.259 pA        | (39.16, 39.68) pA
+99%              | ±0.342 pA        | (39.08, 39.76) pA
+============================================================
+
+INTERPRETATION:
+We are 95% confident that the true mean peak current lies between 39.16 pA and 39.68 pA.
